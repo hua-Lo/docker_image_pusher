@@ -7,3 +7,4 @@ xhofe/alist:latest
 minio/minio
 nacos/nacos-server
 redis
+mysql:5.7
