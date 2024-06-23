@@ -8,3 +8,4 @@ minio/minio
 nacos/nacos-server
 redis
 mysql:5.7
+elasticsearch:7.3.1
